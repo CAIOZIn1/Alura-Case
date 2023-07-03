@@ -22,7 +22,7 @@ acesse em:
 <p>para rodar a aplicação: </p>
 
 ```
-npm i
+yarn i
 
-npm run dev
+yarn run dev
 ```
