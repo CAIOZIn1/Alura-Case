@@ -15,6 +15,10 @@ acesse em:
 
 ![aplicação](./img_project.png)
 
+<p>Tela FAQ: </p>
+
+![aplicação](./img_project2.png)
+
 <p>para rodar a aplicação: </p>
 
 ```
