@@ -1,4 +1,4 @@
-<h1>Alura Case</h1>
+<h1 align=center>Alura Case</h1>
 
 >projeto finalizado
 
